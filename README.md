@@ -7,7 +7,7 @@ An adapter that provides authentication for the MobileFirstBank app
 
 ### Usage
 
-> See the [MobileFirstBank repo](https://github.com/MobileFirst-Platform-Developer-Center/MobileFirstBank/tree/release80) for more information on how to setup and deploy the adapter
+> See the [MobileFirstBank repo](https://github.com/MobileFirst-Platform-Developer-Center/MobileFirstBankCordova) for more information on how to setup and deploy the adapter
 
 
 ### Supported Levels
